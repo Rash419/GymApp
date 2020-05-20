@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">WorkOut</string>
+    <string name="action_settings">Settings</string>
+    <string name="duration">Duration:</string>
+    <string name="hintEditText">Enter number of sets</string>
+    <string name="selectText">Select number of sets:</string>
+
+    <array name="imageExercise">
+        <item>@drawable/one</item>
+        <item>@drawable/two</item>
+        <item>@drawable/three</item>
+        <item>@drawable/four</item>
+        <item>@drawable/five</item>
+        <item>@drawable/six</item>
+        <item>@drawable/seven</item>
+        <item>@drawable/eight</item>
+        <item>@drawable/nine</item>
+        <item>@drawable/ten</item>
+        <item>@drawable/eleven</item>
+        <item>@drawable/twelve</item>
+        <item>@drawable/thirteen</item>
+        <item>@drawable/fourteen</item>
+    </array>
+    <string-array name="exercise_duration">
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>5</item>
+        <item>4</item>
+        <item>6</item>
+        <item>2</item>
+    </string-array>
+</resources>
